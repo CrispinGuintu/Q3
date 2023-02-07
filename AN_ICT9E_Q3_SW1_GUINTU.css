@@ -1,0 +1,39 @@
+
+  .story{
+
+  width:50em;
+  text-align:justify;
+  }
+
+  img{
+  border-style: solid;
+  border-color: whitesmoke;
+  border-width: 6px;
+  border-radius: 60px;
+  opacity: 0.89;
+  text-align: center;
+  
+}
+  .image:hover{
+  opacity: 1;
+}
+
+h1,h3{
+  font-family: itim;
+ 
+  text-transform: uppercase;
+  letter-spacing: 12px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  
+
+  
+  
+
+  
